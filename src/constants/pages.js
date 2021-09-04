@@ -1,0 +1,12 @@
+export const INBOX = "inbox";
+export const OUTBOX = "outbox";
+export const TRASH = "trash";
+export const SPAM = "spam";
+export const FORUMS = "forums";
+export const UPDATES = "updates";
+export const PROMOS = "promos";
+export const PURCHASES = "purchases";
+export const SOCIAL = "social";
+export const LOREM_IPSUM = "lorem_ipsum";
+export const NEW_LINK = "new_link";
+export const HOME_PAGE = "home_page";
